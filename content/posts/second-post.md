@@ -1,7 +1,7 @@
 ---
 # type: docs 
-title: {{ replace .Name "-" " " | title }}
-date: {{ .Date }}
+title: Second Post
+date: 2023-12-19T07:52:17-05:00
 featured: false
 draft: true
 comment: true
@@ -11,12 +11,12 @@ pinned: false
 carousel: false
 series:
 categories: []
-tags: []
+tags: ['random']
 images: []
 ---
 
-Summary.
+On the first day of Christmas
 
 <!--more-->
 
-Content.
+...my true love said to me.

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "c:/Users/hal/OneDrive/Documents/Projects/website/halr9000.github.io",
+	"sourceRoot": "C:/Users/hal/Projects/website/halr9000.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],

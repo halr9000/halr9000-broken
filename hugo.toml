@@ -1,4 +1,4 @@
 baseURL = 'https://halr9000.com/'
 languageCode = 'en-us'
 title = 'HALR9000'
-theme = 'ananke'
+# theme = 'ananke'

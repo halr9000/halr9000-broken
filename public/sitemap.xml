@@ -3,16 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://halr9000.com/</loc>
-    <lastmod>2023-12-07T22:36:19-05:00</lastmod>
+    <lastmod>2023-12-19T07:52:17-05:00</lastmod>
+  </url><url>
+    <loc>https://halr9000.com/posts/</loc>
+    <lastmod>2023-12-19T07:52:17-05:00</lastmod>
+  </url><url>
+    <loc>https://halr9000.com/tags/random/</loc>
+    <lastmod>2023-12-19T07:52:17-05:00</lastmod>
+  </url><url>
+    <loc>https://halr9000.com/posts/second-post/</loc>
+    <lastmod>2023-12-19T07:52:17-05:00</lastmod>
+  </url><url>
+    <loc>https://halr9000.com/tags/</loc>
+    <lastmod>2023-12-19T07:52:17-05:00</lastmod>
   </url><url>
     <loc>https://halr9000.com/posts/my-first-post/</loc>
     <lastmod>2023-12-07T22:36:19-05:00</lastmod>
   </url><url>
-    <loc>https://halr9000.com/posts/</loc>
-    <lastmod>2023-12-07T22:36:19-05:00</lastmod>
-  </url><url>
     <loc>https://halr9000.com/categories/</loc>
-  </url><url>
-    <loc>https://halr9000.com/tags/</loc>
   </url>
 </urlset>
