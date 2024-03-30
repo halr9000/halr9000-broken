@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://halr9000.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://halr9000.com/</loc>
+</url>
+<url>
+<loc>https://halr9000.com/check-out-instantid-an-amazing-photo-styler.html</loc>
+<lastmod>2024-03-30T12:33:05-04:00</lastmod>
+<image:image>
+<image:loc>https://halr9000.com/media/posts/1/ComfyUI_0001-2.webp</image:loc>
+<image:title><![CDATA[an image processed with the InstantID technique being discussed in this article]]></image:title>
+</image:image>
+</url>
+</urlset>
